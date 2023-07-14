@@ -1,0 +1,9 @@
+.login-form {
+  border: none;
+  width: 500px;
+  padding: 80px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background: hsla(120,100%,75%,0.3);
+}
